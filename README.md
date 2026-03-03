@@ -8,6 +8,6 @@
 
 
 
-  Read about Amalgam's documentation and features [here](../../wiki). 
+  Read about AmalgamSlop's documentation and features [here](../../wiki). 
 
 </div>
